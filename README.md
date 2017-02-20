@@ -4,3 +4,5 @@
 *bird 2
 *bird 1
 Changed order of birds
+
+Git is easy. Git is fun. Thanks Linus!
